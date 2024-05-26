@@ -8,7 +8,7 @@ The dataset used in this study is sourced from the UC Irvine Machine Learning Re
 
 ![image](https://github.com/hengkisan/student-dropout-python/assets/122197570/ae3e0e05-2863-4567-b3c5-11d797c30fd3)
 
-Programming languages such as Python were employed for data preprocessing, exploratory data analysis (EDA), and model development. Categorical features are re-mapped into new values, resulted in lower dimensionality of the data and better interpretation ([mapping dictionary here](https://github.com/hengkisan/azure-supermarket-datawarehouse)). Machine learning libraries such as Scikit-Learn and CatBoost were utilized for implementing classification algorithms like Random Forest and CatBoost.
+Programming languages such as Python were employed for data preprocessing, exploratory data analysis (EDA), and model development. Categorical features are re-mapped into new values, resulted in lower dimensionality of the data and better interpretation ([mapping dictionary here](https://github.com/hengkisan/student-dropout-python/blob/main/DictCatFinal.py)). Machine learning libraries such as Scikit-Learn and CatBoost were utilized for implementing classification algorithms like Random Forest and CatBoost.
 
 ![image](https://github.com/hengkisan/student-dropout-python/assets/122197570/a04e215e-39b3-45a3-93b0-166ab004a993)
 
