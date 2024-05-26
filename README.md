@@ -1,4 +1,4 @@
-# 
+# Predictive Modeling and Factor Analysis on Student Dropout Using Machine Leaning Techniques
 
 ## 📚 Introduction
 This study explore the application of machine learning models in predicting student dropout tendencies. Utilizing a diverse dataset encompassing academic, demographic, and socio-economic factors, the study employs machine learning algorithms to automate predictions and provide insights into the factors influencing student retention.
